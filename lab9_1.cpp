@@ -31,5 +31,6 @@ int main()
   else if (rank == 'D'){
      cout << "You have received very KAK items.\n";
   }
+
   return 0;
 }
